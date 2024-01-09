@@ -2,5 +2,4 @@
 functionName{
 	alert("functionName");
 }
-const x=acciojob();
-console.log(x);
+functionName();
