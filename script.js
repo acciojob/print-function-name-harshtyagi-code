@@ -1,6 +1,6 @@
 //your JS code here. If required.
-acciojob{
-	alert("acciojob");
+functionName{
+	alert("functionName");
 }
 const x=acciojob();
 console.log(x);
